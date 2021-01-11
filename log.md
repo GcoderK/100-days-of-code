@@ -1,30 +1,28 @@
-# 100 Days Of Code - Log
+# #100DaysOfCode log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## Round 1 - Started on January 07th, 2021 (Thursday)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### R1D1
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress:** Started with the intro & basics of 'Scientific Computing with Python' in FreeCodeCamp.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Restarting my programming journey. It's been a long break. Hoping to stick to the plan this time, and making myself accountable by committing to #100DaysOfCode. After today, I'm glad that I'm back on track.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link to work:** https://www.freecodecamp.org/learn/
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### R1D2
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress:** Done with intro, variables, expressions, statements, operators, conditions & structures, exception handling, and functions.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts:** A good starting point for anyone who doesn't know to code. Enjoying so far.
 
+**Link to work:** https://www.freecodecamp.org/learn/
 
-### Day 1: June 27, Monday
+### R1D3 & R1D4
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress:** Read blogs on how to use github, & forked repo for this challenge. Didn't read much on #Python
+which I was supposed to.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** Hard to maintain focus. Often getting distracted. Trying too keep myself focused and accountable.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** https://www.freecodecamp.org/learn/
