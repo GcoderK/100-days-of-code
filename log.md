@@ -26,3 +26,11 @@ which I was supposed to.
 **Thoughts:** Hard to maintain focus. Often getting distracted. Trying too keep myself focused and accountable.
 
 **Link to work:** https://www.freecodecamp.org/learn/
+
+### R1D5
+
+**Today's Progress:** Read in detail and cleared most of my confusions about git, github (sticking with this) & gitlab. Also completed exercise 04-06 in FCC's Python.
+
+**Thoughts:**  With practise, will be able to master github. For now, pushing commits for this repository from local.
+
+**Link to work:** https://www.freecodecamp.org/learn/
