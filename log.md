@@ -42,3 +42,11 @@ which I was supposed to.
 **Thoughts:**  Being familiar with loops, I was able to be done with it sooner than expected. Strings, and its methods & functions were a bit of a new concept. Was interesting to read about them.
 
 **Link to work:** https://www.freecodecamp.org/learn/
+
+### R1D7
+
+**Today's Progress:** Read about reading files, lists, and dictionaries. Covered a lot of new topics. Worked on the examples and their applications. Completed exercises 07-01, 08 & 09.
+
+**Thoughts:**  It was interesting to learn about lists & dictionaries. Looks like Data structures play an important factor.
+
+**Link to work:** https://www.freecodecamp.org/learn/
