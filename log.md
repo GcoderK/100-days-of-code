@@ -20,7 +20,7 @@
 
 ### R1D3 & R1D4
 
-**Today's Progress:** Read blogs on how to use github, & forked repo for this challenge. Didn't read much on #Python
+**Today's Progress:** Read blogs on how to use github, & forked repo for this challenge. Didn't read much on Python
 which I was supposed to.
 
 **Thoughts:** Hard to maintain focus. Often getting distracted. Trying too keep myself focused and accountable.
@@ -32,5 +32,13 @@ which I was supposed to.
 **Today's Progress:** Read in detail and cleared most of my confusions about git, github (sticking with this) & gitlab. Also completed exercise 04-06 in FCC's Python.
 
 **Thoughts:**  With practise, will be able to master github. For now, pushing commits for this repository from local.
+
+**Link to work:** https://www.freecodecamp.org/learn/
+
+### R1D6
+
+**Today's Progress:** Studied different types of Loops & Iterations. Done with Strings too. Completed exercise 06-05.
+
+**Thoughts:**  Being familiar with loops, I was able to be done with it sooner than expected. Strings, and its methods & functions were a bit of a new concept. Was interesting to read about them.
 
 **Link to work:** https://www.freecodecamp.org/learn/
