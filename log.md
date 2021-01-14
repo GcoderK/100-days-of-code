@@ -31,7 +31,7 @@ which I was supposed to.
 
 **Today's Progress:** Read in detail and cleared most of my confusions about git, github (sticking with this) & gitlab. Also completed exercise 04-06 in FCC's Python.
 
-**Thoughts:**  With practise, will be able to master github. For now, pushing commits for this repository from local.
+**Thoughts:** With practise, will be able to master github. For now, pushing commits for this repository from local.
 
 **Link to work:** https://www.freecodecamp.org/learn/
 
@@ -39,7 +39,7 @@ which I was supposed to.
 
 **Today's Progress:** Studied different types of Loops & Iterations. Done with Strings too. Completed exercise 06-05.
 
-**Thoughts:**  Being familiar with loops, I was able to be done with it sooner than expected. Strings, and its methods & functions were a bit of a new concept. Was interesting to read about them.
+**Thoughts:** Being familiar with loops, I was able to be done with it sooner than expected. Strings, and its methods & functions were a bit of a new concept. Was interesting to read about them.
 
 **Link to work:** https://www.freecodecamp.org/learn/
 
@@ -47,6 +47,14 @@ which I was supposed to.
 
 **Today's Progress:** Read about reading files, lists, and dictionaries. Covered a lot of new topics. Worked on the examples and their applications. Completed exercises 07-01, 08 & 09.
 
-**Thoughts:**  It was interesting to learn about lists & dictionaries. Looks like Data structures play an important factor.
+**Thoughts:** It was interesting to learn about lists & dictionaries. Looks like Data structures play an important factor.
+
+**Link to work:** https://www.freecodecamp.org/learn/
+
+### R1D8
+
+**Today's Progress:** Studied about Tuples. Also read about Regular Expressions (RegEx) for matching and extracting data.
+
+**Thoughts:** Data Structures is amazing. Tuples, Lists, and Dictionaries make the code look simplified and elegant. RegEx is cool, but need to get familiar with the expressions.
 
 **Link to work:** https://www.freecodecamp.org/learn/
