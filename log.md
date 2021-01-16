@@ -53,8 +53,24 @@ which I was supposed to.
 
 ### R1D8
 
-**Today's Progress:** Studied about Tuples. Also read about Regular Expressions (RegEx) for matching and extracting data.
+**Today's Progress:** Studied about Tuples. Also read about Regular Expressions (RegEx) for matching and extracting data. Completed example 10.
 
 **Thoughts:** Data Structures is amazing. Tuples, Lists, and Dictionaries make the code look simplified and elegant. RegEx is cool, but need to get familiar with the expressions.
+
+**Link to work:** https://www.freecodecamp.org/learn/
+
+### R1D9
+
+**Today's Progress:** Read about topics related to networking with Python. Learnt how to write a web scraping script.
+
+**Thoughts:** This concept and syntaxes were new to me. Though I've basic knowledge about networking, implementing them with python was new. Need another revision to get more familiarized with the script.
+
+**Link to work:** https://www.freecodecamp.org/learn/
+
+### R1D10
+
+**Today's Progress:** Done with the examples of networking with Python in FCC. Many example programs were provided, which needs to be gone through. Additionally, solved a binary sequence problem from hackerearth, which was referred to me by an acquaintance.
+
+**Thoughts:** Networking with Python and its programs still need a proper read. Solving the hackerearth problem was a good exercise to the brain. Felt amazing.
 
 **Link to work:** https://www.freecodecamp.org/learn/
