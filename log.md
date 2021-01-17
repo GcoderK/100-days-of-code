@@ -74,3 +74,11 @@ which I was supposed to.
 **Thoughts:** Networking with Python and its programs still need a proper read. Solving the hackerearth problem was a good exercise to the brain. Felt amazing.
 
 **Link to work:** https://www.freecodecamp.org/learn/
+
+### R1D11
+
+**Today's Progress:** Being a Sunday, took a break from learning. Solved a couple warmup problems from CodeSignal & HackerRank, and registered myself in other platforms - LeetCode and HackerEarth.
+
+**Thoughts:** It was good to know that I remembered and implemented what I learnt. Keeps me motivated to keep continuing this challenge.
+
+**Link to work:** https://www.hackerrank.com/dashboard , https://www.hackerrank.com/dashboard
